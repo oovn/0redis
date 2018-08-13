@@ -1,5 +1,5 @@
 {
-    "url": "http://0.0.0.0",
+    "url": "http://ok.nodebb.xyz",
     "port": "8080",
     "database": "redis",
     "redis": {
