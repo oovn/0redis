@@ -3,9 +3,9 @@
     "port": "8080",
     "database": "redis",
     "redis": {
-        "host": "172.30.68.217",
+        "host": "172.30.199.5",
         "port": "6379",
-        "password": "ysyP73XQDYTrWNIQ",
+        "password": "matma",
         "database": "1"
     },
     "secret": "database-laso-luon-tang-cong1laduroi"
